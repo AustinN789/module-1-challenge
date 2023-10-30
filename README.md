@@ -36,3 +36,9 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+
+### output 
+Screenshots:
+    ![Screenshot1](https://github.com/AustinN789/module-1-challenge/blob/main/screen%20shot.png)
+    
