@@ -2,7 +2,7 @@
 
 ## Description
 
-Complete the module 1 assignment
+ the module 1 assignment to help understand about semantic element and find error code and fix it to make the website look better.
 
 ## Installation
 
@@ -28,6 +28,8 @@ On the Settings page, select Pages on the left side of the page. On the GitHub P
 
 Navigate to <your-github-username>.github.io/<your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is lernantino and the project is css-demo-site, then your URL would be lernantino.github.io/css-demo-site.
 
+## Note
+asking help from tutor. she explains me what is semantic element and guide me to complete header and nav element. 
 
 ## Credits
 
@@ -41,4 +43,5 @@ Please refer to the LICENSE in the repo.
 ### output 
 Screenshots:
     ![Screenshot1](https://github.com/AustinN789/module-1-challenge/blob/main/screen%20shot.png)
-    
+### URL 
+https://github.com/AustinN789/module-1-challenge
